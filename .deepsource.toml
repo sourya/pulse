@@ -15,4 +15,4 @@ enabled = true
 
   [analyzers.meta]
   
-  import_path = github.com/sourya/pulse
+  import_path = "github.com/sourya/pulse"
